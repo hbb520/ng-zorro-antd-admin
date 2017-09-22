@@ -1,5 +1,5 @@
 [![angular](https://ng.ant.design/assets/img/angular.svg)](https://angular.cn/)
-[![NG-ZORRO](https://ng.ant.design/assets/img/antd.svg](https://ng.ant.design/#/docs/angular/introduce)
+[![NG-ZORRO](https://ng.ant.design/assets/img/antd.svg)](https://ng.ant.design/#/docs/angular/introduce)
 
 
 一个基于 [ng-zorro-antd](https://github.com/NG-ZORRO/ng-zorro-antd)【ANT DESIGN】 的企业后台模板。
