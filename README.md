@@ -44,7 +44,7 @@ npm start
 | `font-awesome` |  图标库  | 图标库  |
 |`ngx-uploader`|^3.3.11|上传组件|
 |`@types/js-base64`|^2.1.5|账号密码base64转码|
-|`chart.js`|*|图标|
+|`chart.js`|*|图表|
 |`normalize.css`|*| |
 |`ngx-progressbar`|^2.0.6|切换路由时候的进度条|
 |`jquery`|^3.1.1|我们不会用到|
