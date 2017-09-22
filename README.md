@@ -1,4 +1,4 @@
-[![angular](https://img.shields.io/badge/vue-2.4.2-brightgreen.svg)](https://github.com/vuejs/vue)
+[![angular](https://angular.cn/assets/images/logos/angular/logo-nav@2x.png)](https://github.com/vuejs/vue)
 [![element-ui](https://img.shields.io/badge/element--ui-1.4.2-brightgreen.svg)](https://github.com/ElemeFE/element)
 
 
