@@ -29,3 +29,28 @@ npm start
 ```
 
 ## 环境
+
+| 包 | 版本 |
+| ------- | ------- |
+| `ng-zorro-antd-admin` | 0.0.1-beta.1 | 
+| `ng-zorro-antd` | ^0.5.1 |
+| `@angular` | ^4.3.6 |
+| `@angular/cli` | 1.4.2 |
+
+**第三方类型**
+
+| 包 | 额外依赖 | 说明 |
+| ------- | ------- | ------- |
+| `font-awesome` |  |  |
+
+
+## 特性
+
++ 基于 `ng-zorro-antd`
++ 响应式
++ SCSS预编译
+
+## 应用截图
+
+![桌面](./src/assets/images/md/angular.png)
+
