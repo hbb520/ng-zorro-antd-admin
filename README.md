@@ -64,4 +64,4 @@ npm start
 ## 关于
 
 + 前端小白,我会在没有项目的时候跟随ng-zorro-antd版本优化下
-+ 320404326 一个ng-zorro-antd的交流群欢迎小伙伴来学习:tropical fish:
++ 320404326 一个ng-zorro-antd的交流群欢迎小伙伴来学习:tangerine:
