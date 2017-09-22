@@ -1,12 +1,14 @@
-一套基于 [ng-zorro-antd](https://github.com/NG-ZORRO/ng-zorro-antd)【ANT DESIGN】 的企业后台模板。
+[![vue](https://img.shields.io/badge/vue-2.4.2-brightgreen.svg)](https://github.com/vuejs/vue)
+[![element-ui](https://img.shields.io/badge/element--ui-1.4.2-brightgreen.svg)](https://github.com/ElemeFE/element)
+一个基于 [ng-zorro-antd](https://github.com/NG-ZORRO/ng-zorro-antd)【ANT DESIGN】 的企业后台模板。
 
-[DEMO](http://www.baidu.com)
+[DEMO链接](http://www.baidu.com)
 
 ## 快速入门
 
 确保 `node` 版本 >= 6.9.0 且 `npm` 版本 >= 3 以上。
 
-`ng-zorro-antd-admin` 本身并非组件库，只是一个单纯的企业后台模板，你可以**直接克隆**到你的本地，然后立即进入实际开发。
+`ng-zorro-antd-admin` 本身并非组件库，只是一个单纯的企业后台模板展示。
 
 ```bash
 
